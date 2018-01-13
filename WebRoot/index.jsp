@@ -14,6 +14,7 @@
 	省份:<input type="text" name="address.privince"/><br>
 	市:<input type="text" name="address.city"/><br>
 	县:<input type="text" name="address.steet"/><br>
+	
 	<input type="submit" value="提交"/>
 </form>
 </body>
